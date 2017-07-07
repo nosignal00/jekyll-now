@@ -14,3 +14,6 @@ sudo du -x -h / | sort -h | tail -40
 5. kernel version
 uname -r
 uname -a
+
+6. conda clean up files command
+conda clean --all
