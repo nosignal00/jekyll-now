@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 통계 환경 구축하기
+title: finance 환경 구축하기
 ---
 1. dart crawling
 
