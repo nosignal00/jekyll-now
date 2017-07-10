@@ -10,7 +10,7 @@ title: finance 환경 구축하기
   
 -해당 접수번호를 알게 되면 해당 페이지 크롤링이 가능하며 이때 아래 형태를 크롤링한다
   
-  1)<a href="#download" onclick="openPdfDownload('20150326000802', '4533550'); return false;"><img src="/images/common/viewer_down.gif" style="cursor:pointer;" alt="다운로드" title="다운로드">
+  1)~ a href="#download" onclick="openPdfDownload('20150326000802', '4533550')~
 
   2) 4533550이 PDF 번호임
  
