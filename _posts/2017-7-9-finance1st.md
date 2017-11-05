@@ -23,3 +23,5 @@ title: finance 환경 구축하기
 2. https://financedata.github.io/posts/naver-finance-finstate-crawling.html
 
 3. https://woosa7.github.io/fss_dart/
+
+4. http://devse.tistory.com/entry/코스피-주가-데이터-17년치-20000104-부터
