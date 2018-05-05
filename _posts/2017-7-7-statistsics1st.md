@@ -17,3 +17,6 @@ uname -a
 
 6. conda clean up files command
 conda clean --all
+
+7. momory check
+watch -n 5 free -m
