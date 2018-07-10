@@ -1,0 +1,14 @@
+---
+layout: post
+title: DataBricks base setting
+---
+webhook 하면서 배운 것들
+1. 파이선 실행환경을 그대로 가져다가 heroku에 올리려면 virtualenv를 설정해줘야 하는데, 이걸 편하게 하는 게 pipenv이다.
+
+2. 이걸 pipenv install 한다음 필요한 dependancy를 하나하나 추가해야 한다.
+
+3. 분명 파이선 파일에서 긁어와서 자동으로 넣는 방법이 있을진데, 아직은 모르겠다.
+
+4. aws는 그 자체로 ssl 서버로 등록할 수가 없다. heroku 사용하면 ssl을 별다른 설정없이 활용할 수 있으니 그대로 사용하면 된다.
+
+5. webhook은 텔레그램 라이브러리 사용시 핸들러의 추가 위치가 중요하니 주의해야 한다.
