@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web
+title: DataBrick S3 와 연결하여 
 ---
 IAM 설정을 사용하려면 다음 개념을 이해 해야 한다.
 IAM은 권한설정을 관리할 수 있는 json일뿐이며, 이를 통해 접근하려면 role ARN을 각 계정이 가지고 있어야하며,
